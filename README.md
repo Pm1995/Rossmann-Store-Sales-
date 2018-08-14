@@ -12,3 +12,6 @@ The Store data frame has variables like competition distance and store type etc
 Train data frame contains the SALES target variable as well as the number of customers in each store. 
 
 ![alt-text](https://github.com/Pm1995/Rossmann-Store-Sales-/blob/master/Picture1.png)
+
+## Kaggle Competition Link 
+https://www.kaggle.com/c/rossmann-store-sales
